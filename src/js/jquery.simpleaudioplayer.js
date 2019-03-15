@@ -3,9 +3,6 @@
  * http://github.com/dradl/jquery-simpleaudioplayer
  * Requires jQuery 1.4.2
  *
- * Copyright 2018, Dominik Radl.
- * Licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) 
- * https://creativecommons.org/licenses/by-nc-sa/4.0/
  */
 
 $.fn.simpleAudioPlayer = function ( options ) {
